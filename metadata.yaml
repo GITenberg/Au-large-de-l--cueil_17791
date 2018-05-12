@@ -1,0 +1,27 @@
+_repo: Au-large-de-l--cueil_17791
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bernier, Hector
+    birthdate: 1886
+    deathdate: 1947
+    gutenberg_agent_id: '5502'
+    url: http://www.gutenberg.org/2009/agents/5502
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17791'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Canadian fiction'
+title: Au large de l'Écueil
+url: http://www.gutenberg.org/ebooks/17791
